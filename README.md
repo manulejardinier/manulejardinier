@@ -2,7 +2,7 @@
 - 👀 I’m interested in people, biology, plants, nature, landscape, gardening, AI, NLP, decision making tools...
 - 🌱 I’m currently learning JS, ReactJS, NextJS, Python, Django, Conda, Postgres, Nginx, Podman, Kubernetes...
 - 💞️ I’m looking to collaborate on a decision making tool to help people to learn about plants and their environment.
-- 📫 How to reach me : Twitter @manulejardinier, contact@floratlas.com or come take a beer in amazing Montpellier, FR
+- 📫 How to reach me : contact@floratlas.com or come take a beer in amazing Montpellier, FR
 
 Have Fun & Take Care
 
