@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a decision making tool to help people to learn about plants and their environment.
 - 📫 How to reach me : contact@floratlas.com or come take a beer in amazing Montpellier, FR
 
-Have Fun & Take Care
+Happy coding & Have Fun & Take Care
 
 <!---
 manulejardinier/manulejardinier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
